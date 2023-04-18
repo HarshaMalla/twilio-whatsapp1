@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "biryani-bot-lgbp",
+  "private_key_id": "87a9c5e2312d8318c76beac8fa32e83d8933afa3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCIQzGRYAgmo+6\nmxZSqijaWUEgnAtZux0PVaf4Nccd3WmKbls0TnUOuo4hSdHyGUHFz6YUPGp+xsKH\nfzK6zh4GjTyFeIHT6Y8Y0VEXE7XfLO4dbY6XfRg2JKiKALtBfVm6StnAZyl48Nvx\nloIwvssGNEddDr5Oi7FcEjpiN8t5ApjTXKxBibOUL+m07moGXemi1fKclnBeC3yq\n6JiEIchq21Pt6lvLg/tcKCA5QNKEozn27+txTzv90wu6+mwauYrdCPG4DGEMigOX\ncW1dx0P9Xl/RcFomF7saVSFpi68pAoyZNHITNrNluwkAorsRZ7Rka8HWucXoThx8\nqYHhlwe/AgMBAAECggEAK0POYwnuSlXoHoCd8wJ1ZGRr/WaJqQ/opBhE/S6PF/rW\noMGDlh6+O/Ab6RNYtQon/HwQ2YW1flex1xzkI3n4eyFTEbQPyzjMaY2M8wWzjO+o\niep20xBQKxD0dv0+vpO/QaOY8CaNuaSEgE046sA640EXfofgpgTAHHL7jBQ/RtKH\n8Bi8K2a2fHxa75A0gejX2qvux3o6mNOACFBmvMUgYMPWsZKhCXflRmBxJF0OD2hN\nyP08f8CYmcTzXFCvVWzvRt+lxeWQxxQ1rguoFLd40OpM+OY3Iqhwk0U7VQhh8QNO\ngV6nPneiyn/zBCEyP8xMhe2H1PaXPwjpsW++bCFUIQKBgQDlczm4fdOh2Pb61yFL\n0VM+31IZZsuhEIXye8QYgFPoUTX6UspoCDu5C8FntUj2UL6o8dPl59MH2Y1g+mAm\n/vP3nH7C25DKjqcFdrwjT89778R2MT2gwQ3Prxx7v39UP/bUXIyBzki6wzsg0y4o\nLxNNyFHCoV0O9l8HXTRWGXXn5wKBgQDYl4uVgG1Mh/Vk3CI6Y3/tVwbABD492EyP\n1MP6TExmiNVrLamrRO5VEC/nlDrXUnQgizVf7JlT0v1UoygI6y6et9kCI+ZH2qhV\nemNdm7MMb9aX283odP7tEkrdXE2k0KBSiH4ksMaMYqc2CAONgN6mBMWpNk0cpL31\nf3sQBWiGaQKBgQC/sOQoHfcQ4BJ2vgQzM0442JneXuMATK2bR4ssbQmsrSxLVZ+E\nClza29dYrTunjQ28V0yQZn0HsdlLi+GIsrdfxn6gjI8KquMezXOgjKzq/gVEOR8j\njiXbvJAvUm0uFcJA6JD6YTyhyzk60zNcnvehpBmqYOU9+tapcFSpGdxHQQKBgD0y\nTGEYYUlvXLl7rTwcIugXX7PfPwrQU4mMDzdoWWnbHZnj0/2tQz3Ljg17h0iRZnhP\nfOw2eHgDtEo2szgZ4xk7TthY9la1BDzqkKrBNEy+SL6tfzc/30tykK6Mxu9bdwD6\nydFqFR9TPHV6vC4+DCqSTJrr2cvPDFESDN5Q+OCJAoGAB9L/v/R8H2RqiZ01ynzC\nC6K47UWHcvn7BvIPOZiC0os79YGCf8/uahAMe0sJFqCQkU4xXCdrNh30kkQsoeo0\njDnzc8FsEq7vwDdV7+VHc44B7fslwzF+MBDmBuv6bMCcbjStERbg/kd68GLrAD7N\nRhWI4tP0ktoZy9X1I8qebkE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowclientapi@biryani-bot-lgbp.iam.gserviceaccount.com",
+  "client_id": "114429680553254218506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowclientapi%40biryani-bot-lgbp.iam.gserviceaccount.com"
+}
